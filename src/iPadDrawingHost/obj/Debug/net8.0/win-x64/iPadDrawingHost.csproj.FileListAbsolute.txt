@@ -1,0 +1,14 @@
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\bin\Debug\net8.0\win-x64\iPadDrawingHost.exe
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\bin\Debug\net8.0\win-x64\iPadDrawingHost.deps.json
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\bin\Debug\net8.0\win-x64\iPadDrawingHost.runtimeconfig.json
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\bin\Debug\net8.0\win-x64\iPadDrawingHost.dll
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\bin\Debug\net8.0\win-x64\iPadDrawingHost.pdb
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\iPadDrawingHost.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\iPadDrawingHost.AssemblyInfoInputs.cache
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\iPadDrawingHost.AssemblyInfo.cs
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\iPadDrawingHost.csproj.CoreCompileInputs.cache
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\iPadDrawingHost.dll
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\refint\iPadDrawingHost.dll
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\iPadDrawingHost.pdb
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\iPadDrawingHost.genruntimeconfig.cache
+c:\Users\Yew Hwa\Desktop\project_iPad TouchPad\src\iPadDrawingHost\obj\Debug\net8.0\win-x64\ref\iPadDrawingHost.dll

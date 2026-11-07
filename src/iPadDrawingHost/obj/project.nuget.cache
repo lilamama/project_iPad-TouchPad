@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "VamiPM9UBXM=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Yew Hwa\\Desktop\\project_iPad TouchPad\\src\\iPadDrawingHost\\iPadDrawingHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yew Hwa\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json will not be pruned. This package is automatically available and does not need to be referenced explicitly. Remove the PackageReference item.",
+      "projectPath": "c:\\Users\\Yew Hwa\\Desktop\\project_iPad TouchPad\\src\\iPadDrawingHost\\iPadDrawingHost.csproj",
+      "warningLevel": 1,
+      "filePath": "c:\\Users\\Yew Hwa\\Desktop\\project_iPad TouchPad\\src\\iPadDrawingHost\\iPadDrawingHost.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
